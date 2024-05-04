@@ -1,0 +1,4 @@
+style=/home/cracker/.config/wofi/style.css
+allow_images=true
+width=400px
+height=400px
